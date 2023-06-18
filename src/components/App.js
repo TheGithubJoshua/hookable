@@ -200,7 +200,7 @@ export default class App extends Component {
             <nav className="top-menu" />
             <div className="main-header">
               <Link to="/" id="header-img" className="default-header">
-                reddit clone
+                Hookable
               </Link>
               <div className="tab-menu" />
 
